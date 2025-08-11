@@ -1,0 +1,15 @@
+Guidance and Policy Statements in ADGM
+
+The Registration Authority provides guidance and policy statements to assist users in understanding and complying with the requirements of ADGM's commercial legislation.
+
+Available Guidance Topics Include:
+- Company Incorporation: Detailed guides on setting up various types of companies.
+- Beneficial Ownership and Control: Regulations regarding the declaration of Ultimate Beneficial Owners (UBOs).
+- Commercial Licensing: Policies related to obtaining and maintaining a commercial license.
+- Insolvency and Restructuring: Guidance on the ADGM insolvency framework.
+- Data Protection: Information on complying with ADGM’s data protection regulations.
+- Foundations Regime: Detailed guidance on setting up and managing foundations.
+- Special Purpose Vehicles (SPV): Guidelines for the SPV regime in ADGM.
+- Migration of Companies: Process for transferring the registration of a company into ADGM.
+
+These documents are intended to provide clarity and are updated periodically to reflect changes in legislation and best practices. Users are advised to refer to the specific regulations for definitive legal requirements.
